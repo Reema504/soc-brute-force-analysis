@@ -30,6 +30,12 @@ Another failed login attempt from 10.0.0.5 occurred only once and is considered 
 
 The findings are supported by the authentication logs provided in auth.log.
 
+‎‏## 📊 SIEM Visualization
+
+‎‏![SOC Dashboard](IMG_5425.jpeg)
+
+‎‏*Simulated SOC dashboard showing brute-force attack detection based on login activity.*
+
 ## 🚨 Findings
 - 4 failed login attempts from 192.168.1.10
 - 1 successful login from same IP
