@@ -13,6 +13,11 @@ Analyze login activity logs to identify potential brute-force attack attempts an
 ## 📂 Data Source
 Sample authentication logs provided for analysis.
 
+## 📁 Evidence
+
+The analyzed data is available in the file:
+- auth.log
+  
 ## 🔍 Scenario
 Multiple failed login attempts were detected from different IP addresses within a short period.
 
